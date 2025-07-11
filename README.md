@@ -12,7 +12,7 @@ Als erstes musste ich **[Microsoft Visual Studio](https://dotnet.microsoft.com/e
 Am Code alles unnötige vom grid Weggeworfen bis nur noch ein <mark>label</mark> übrig war da dann "Hello World" hinzugefügt. 
 <p align="center">
   <img src="Pics/Phase1/FB10Phase1Code.PNG" style="height: 600px; margin-right: 10px; vertical-align: top;">
-  <img src="Pics/Phase1/FB10Phase1Code.PNG" style="height: 600px; vertical-align: top;">
+  <img src="Pics/Phase1/FB10Phase1Output.PNG" style="height: 600px; vertical-align: top;">
 </p>
 
 > Habe viel mit .md gearbeitet bzw. getestet wie, wann und bis wo GFMs limite gehen.
